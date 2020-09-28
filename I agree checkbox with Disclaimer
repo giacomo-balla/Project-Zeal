@@ -24,3 +24,5 @@
   <input type="submit" name="submit" id="submit">
 </body>
 </html>
+
+// Functions but what about hovering or auto-Fade, thoughts Giacomo?
